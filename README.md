@@ -12,7 +12,10 @@ all the TCP Open ports within the range of 1 to 1025. You are required to accomp
 standard Python’s “socket” library. 
 
 
+
 Project Python Code 
+
+NB: Run the program in pycharm or in others python compilers softwares
 
 ![image](https://user-images.githubusercontent.com/78877077/117553438-4a2afe00-b017-11eb-8e61-c6fead470c97.png)
 
